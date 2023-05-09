@@ -1,11 +1,5 @@
 # NLW eSports 
 
-![preview](./.github/preview.png)
-
->Trilha explorer 🌐
-
-[🔗 Clique aqui para acessar !!!!!](https://NikolasYurii.github.io/NWL/)
-
 Projeto construído durante o evento level up next week da Rocketseat.
 
 ## 💻 Tecnologias
